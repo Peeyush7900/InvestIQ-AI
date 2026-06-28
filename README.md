@@ -1,5 +1,10 @@
 # InvestIQ AI 📈
+## Live Demo
 
+Vercel: https://invest-iq-ntnm345zy-peeyush7900s-projects.vercel.app/
+
+GitHub Repository:
+https://github.com/Peeyush7900/InvestIQ-AI
 > **Your Intelligent Investment Research Analyst**
 
 InvestIQ AI is a production-grade, high-fidelity AI-powered Investment Research Agent that compiles institution-grade equity research reports on any company in seconds. It scours the live web using Tavily Search API, performs multi-stage analysis with LangChain.js (supporting Google Gemini 2.5 Flash and OpenAI GPT-4o), streams progress updates in real-time via Server-Sent Events (SSE), and displays a premium, Vercel/Linear-inspired dark dashboard with dynamic Recharts trend graphs.
